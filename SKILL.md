@@ -1,6 +1,6 @@
 ---
 name: maintain
-description: CCode 工作区健康维护 — 三维一体（防膨胀/防冗余/防过时）。触发: '/maintain', '维护', '工作区健康', 'maintain check', 'maintain init'
+description: "CCode 工作区健康维护 — 三维一体（防膨胀/防冗余/防过时）。触发: '/maintain', '维护', '工作区健康', 'maintain check', 'maintain init'"
 user_invocable: true
 ---
 
